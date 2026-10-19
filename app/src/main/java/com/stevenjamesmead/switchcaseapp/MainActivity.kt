@@ -105,8 +105,8 @@ fun SwitchCaseText(
 ) {
     Text(
         text = text,
-        modifier = Modifier.background(color = Color.White).then(modifier),
-        fontSize = 32.sp
+        modifier = Modifier.background(color = Color.Black).then(modifier),
+        fontSize = 30.sp
     )
 }
 
